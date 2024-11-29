@@ -1,0 +1,55 @@
+.mylogo{
+    width:211px !important;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link {
+    color: rgb(22, 20, 20) !important;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link:hover {
+    color: rgb(22, 20, 20) !important;
+    font-style: oblique;
+    font-size: 25px;
+}
+.me-auto {
+    /* margin-right: auto!important; */
+    margin-left: auto !important;
+}
+.newfooter{
+    background-color: rgb(9, 9, 19) !important;
+    color: #ffff !important;
+}
+.former{
+    background-color: rgb(10, 110, 157) !important;
+    color: #ffff !important;
+}
+.imageoff img{
+    width: 232px;
+    transform: scale(1.1); /* Zoom in the image on hover */
+ 
+  }
+  
+.imageslide img{
+    
+    height: 620px !important;
+    }
+ .float-right{
+    float:right;
+ }
+ .btn{
+    padding: 1px 1opx 10px 10px;
+ }
+ .btn-primary{
+    background-color: rgb(162, 0, 255);
+     padding: 5px 17px 10px 9px;
+    font-style: oblique;
+    font-size: 20px;
+}
+.color{
+    --bs-bg-opacity: 1;
+    background-color: rgb(8, 18, 27);
+}
+.p{
+    margin-left: 9%;
+}
